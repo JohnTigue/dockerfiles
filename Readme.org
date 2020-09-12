@@ -1,4 +1,8 @@
-* Docker images
+* Dockerfiles
+
+Similar to a dotfiles repo, this is for various Docker setups. There
+is one standalone tool, flastaff, while the others are templates for
+inclusion (FROM foo) in other projects.
 
 There are two Docker images here, [[puck/Readme.org][puck]] and [[falstaff/Readme.org][falstaff]]:
 - puck is small and quick
