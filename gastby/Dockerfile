@@ -2,7 +2,7 @@
 
 FROM node:alpine
 
-# Also exposing VSCode debug ports
+# Seems to involve VSCode debug ports.  But I don't use VSCode so...    
 EXPOSE 8000 9929 9230
 
 RUN \
